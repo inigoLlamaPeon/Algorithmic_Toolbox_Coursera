@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+unsigned long int gcd(unsigned long int n, unsigned long int m);
+
+int main()
+{
+	unsigned long int x, y;
+	scanf("%lu", &x);
+	scanf("%lu", &y);
+	printf("%lu", gcd(x, y));
+	return 0;
+}
+
+unsigned long int gcd(unsigned long int n, unsigned long int m)
+{
+	unsigned long int major, minor, reminder;
+	minor = n < m ? n : m;
+	major = n < m ? m : n;
+	if(n % m == 0 || m % n == 0)
+		return minor;
+	do
+	{
+		reminder =  major % minor;
+		major = minor;
+		minor = reminder;
+	}while(reminder != 0);
+	return major;
+}
