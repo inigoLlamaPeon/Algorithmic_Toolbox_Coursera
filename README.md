@@ -18,13 +18,9 @@
 - Week 6 
 
 ## _Week 1 Results_
-- Sum of 2 Digits
-```
-Good job! (Max time used: 0.01/5.00, max memory used: 11292672/2147483648.)
-```
 - Maximum Pairwise Product
 ```
-Good job! (Max time used: 0.01/1.00, max memory used: 25710592/2147483648.)
+Good job! (Max time used: 0.02/1.00, max memory used: 25772032/2147483648.)
 ```
 ## _Week 2 Results_
 ## _Week 3 Results_
