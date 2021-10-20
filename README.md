@@ -20,7 +20,7 @@
 ## _Week 1 Results_
 - Maximum Pairwise Product
 ```
-Good job! (Max time used: 0.02/1.00, max memory used: 25772032/2147483648.)
+Good job! (Max time used: 0.01/1.00, max memory used: 25698304/2147483648.)
 ```
 ## _Week 2 Results_
 ## _Week 3 Results_
