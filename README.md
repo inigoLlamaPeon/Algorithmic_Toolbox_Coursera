@@ -1,12 +1,31 @@
 # Algorithmic Toolbox - Coursera
-## _Program_
+## _Syllabus_
 
 - Week 1: Programming Challenges
+  - Sum of 2 digits
+  - Maximum pairwise product
+  - Stress test implementation
 - Week 2: Algorithmic Warm-up
+  - Why study algorithms?
+  - Fibonacci number
+  - Greatest common divisor
+  - Big-O notation 
 - Week 3: Greedy Algorithms
+  - Introduction
+  - Grouping children
+  - Fractional Knapsack  
 - Week 4: Divide & Conquer
+  - Introduction
+  - Polynomial multiplication
+  - Master Theorem
+  - Sorting problem
+  - Quick sort 
 - Week 5: Dynamic Programming 1
+  - Change problem
+  - String comparison 
 - Week 6: Dynamic Programming 2
+  - Knapsack
+  - Placing parethenses 
 
 ## _Status_
 
