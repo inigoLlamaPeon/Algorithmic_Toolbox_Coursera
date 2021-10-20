@@ -25,7 +25,7 @@ unsigned long int maxPairwiseProduct(const unsigned long int * arr, unsigned lon
 		aux = nums[0] < nums[1] ? 0 : 1;
 		while(i < N)
 		{
-			if(arr[i] > nums[aux] && arr[i])
+			if(arr[i] > nums[aux])
 			{
 				nums[aux] = arr[i];
 				break;
