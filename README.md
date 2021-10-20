@@ -42,6 +42,20 @@
 Good job! (Max time used: 0.01/1.00, max memory used: 25698304/2147483648.)
 ```
 ## _Week 2 Results_
+- Fibonnacci Number
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11235328/2147483648.)
+```
+- Last Digit of Fibonacci Number
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11288576/2147483648.)
+```
+- Greatest Common Divisor
+- Least Common Multiple
+- Fibonacci Number Again
+- Last Digit of Sum of Fibonacci Numbers
+- Last Digit of Sum of Fibonacci Numbers Again
+- Last Digit of the Sum of Squares of Fibonacci Numbers
 ## _Week 3 Results_
 ## _Week 4 Results_
 ## _Week 5 Results_
