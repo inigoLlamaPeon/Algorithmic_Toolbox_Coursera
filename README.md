@@ -51,6 +51,9 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11235328/2147483648.)
 Good job! (Max time used: 0.00/1.00, max memory used: 11288576/2147483648.)
 ```
 - Greatest Common Divisor
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11243520/2147483648.)
+```
 - Least Common Multiple
 - Fibonacci Number Again
 - Last Digit of Sum of Fibonacci Numbers
