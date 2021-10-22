@@ -67,6 +67,7 @@ Good job! (Max time used: 0.01/1.00, max memory used: 11513856/2147483648.)
 ```
 - Last Digit of Sum of Fibonacci Numbers
 ```
+Good job! (Max time used: 0.00/1.00, max memory used: 11206656/2147483648.)
 ```
 - Last Digit of Sum of Fibonacci Numbers Again
 ```
