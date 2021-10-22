@@ -1,6 +1,8 @@
 # Algorithmic Toolbox - Coursera
+This repository contains my solutions to Algorithmic Toolbox course (UC San Diego - Coursera) assignments.
 
-The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+## _About_
+_The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second)._
 
 ## _Syllabus_
 
@@ -33,7 +35,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 ## _Status_
 
 - Week 1 :heavy_check_mark:
-- Week 2 
+- Week 2 :heavy_check_mark:
 - Week 3 
 - Week 4 
 - Week 5 
@@ -75,6 +77,7 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11231232/2147483648.)
 ```
 - Last Digit of the Sum of Squares of Fibonacci Numbers
 ```
+Good job! (Max time used: 0.00/1.00, max memory used: 11235328/2147483648.)
 ```
 ## _Week 3 Results_
 ## _Week 4 Results_
