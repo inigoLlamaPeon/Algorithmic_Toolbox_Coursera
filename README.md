@@ -80,6 +80,28 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11231232/2147483648.)
 Good job! (Max time used: 0.00/1.00, max memory used: 11235328/2147483648.)
 ```
 ## _Week 3 Results_
+- Money Change
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11231232/2147483648.)
+```
+- Maximum Value of the Loot
+```
+```
+- Car Fueling
+```
+```
+- Maximum Advertisement Revenue
+```
+```
+- Collecting Signatures
+```
+```
+- Maximum Number of Prizes 
+```
+```
+- Maximum Salary
+```
+```
 ## _Week 4 Results_
 ## _Week 5 Results_
 ## _Week 6 Results_
