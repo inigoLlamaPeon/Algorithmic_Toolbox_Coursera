@@ -86,6 +86,7 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11231232/2147483648.)
 ```
 - Maximum Value of the Loot
 ```
+Good job! (Max time used: 0.00/1.00, max memory used: 11407360/2684354560.)
 ```
 - Car Fueling
 ```
