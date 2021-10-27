@@ -55,17 +55,17 @@ void *sortStructbyRatio(struct item *src, int16_t nItems)
 		for(int16_t j = 0; j < nItems; j++)
 		{
 			if (src[i].ratio > src[j].ratio) 
-            {
-                aux.ratio = src[i].ratio;
-                aux.value = src[i].value;
-                aux.weight = src[i].weight;
-                src[i].ratio = src[j].ratio;
-                src[i].value = src[j].value;
-                src[i].weight =src[j].weight;
-                src[j].ratio = aux.ratio;
-                src[j].value = aux.value;
-                src[j].weight = aux.weight;
-            }
+        		{
+				aux.ratio = src[i].ratio;
+				aux.value = src[i].value;
+				aux.weight = src[i].weight;
+				src[i].ratio = src[j].ratio;
+				src[i].value = src[j].value;
+				src[i].weight =src[j].weight;
+				src[j].ratio = aux.ratio;
+				src[j].value = aux.value;
+				src[j].weight = aux.weight;
+            		}
 		}
 	}
 }
