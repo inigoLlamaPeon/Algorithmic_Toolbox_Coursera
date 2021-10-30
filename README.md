@@ -99,8 +99,9 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11718656/2147483648.)
 - Collecting Signatures (C++)
 ```
 ```
-- Maximum Number of Prizes (C++)
+- Maximum Number of Prizes (C)
 ```
+Good job! (Max time used: 0.00/1.00, max memory used: 12582912/2147483648.)
 ```
 - Maximum Salary (C++)
 ```
