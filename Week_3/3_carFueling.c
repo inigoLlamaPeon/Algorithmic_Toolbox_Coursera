@@ -23,19 +23,19 @@ int numRefill(int32_t distance, int32_t milesTank, int32_t *station, int32_t nSt
 	int32_t i = 0, position = 0, stop = 0;
 	station[nStations] = distance;
 	while (i <= nStations)
-    {
-        if (position + milesTank >= distance)
-            return cnt;
-        if (position + milesTank < station[i])
-        {
-            stop = i - 1;
-            if (position == station[stop])
-                return -1;
-            position = station[i - 1];
+    	{
+        	if (position + milesTank >= distance)
+            		return cnt;
+        	if (position + milesTank < station[i])
+        	{
+			stop = i - 1;
+            		if (position == station[stop])
+            			return -1;
+           		position = station[i - 1];
 			cnt++;
-            i--;
-        }
+            		i--;
+        	}
         i++;
-    }
+    	}
 	return -1;
 }
