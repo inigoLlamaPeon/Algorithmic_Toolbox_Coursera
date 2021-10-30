@@ -35,7 +35,7 @@ int numRefill(int32_t distance, int32_t milesTank, int32_t *station, int32_t nSt
 			cnt++;
             		i--;
         	}
-        i++;
+        	i++;
     	}
 	return -1;
 }
