@@ -42,65 +42,67 @@ _The course covers basic algorithmic techniques and ideas for computational prob
 - Week 6 
 
 ## _Week 1 Results_
-- Maximum Pairwise Product
+- Maximum Pairwise Product (C)
 ```
 Good job! (Max time used: 0.01/1.00, max memory used: 25698304/2147483648.)
 ```
 ## _Week 2 Results_
-- Fibonnacci Number
+- Fibonnacci Number (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11235328/2147483648.)
 ```
-- Last Digit of Fibonacci Number
+- Last Digit of Fibonacci Number (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11288576/2147483648.)
 ```
-- Greatest Common Divisor
+- Greatest Common Divisor (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11243520/2147483648.)
 ```
-- Least Common Multiple
+- Least Common Multiple (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11268096/2147483648.)
 ```
-- Fibonacci Number Again
+- Fibonacci Number Again (C)
 ```
 Good job! (Max time used: 0.01/1.00, max memory used: 11513856/2147483648.)
 ```
-- Last Digit of Sum of Fibonacci Numbers
+- Last Digit of Sum of Fibonacci Numbers (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11206656/2147483648.)
 ```
-- Last Digit of Sum of Fibonacci Numbers Again
+- Last Digit of Sum of Fibonacci Numbers Again (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11231232/2147483648.)
 ```
-- Last Digit of the Sum of Squares of Fibonacci Numbers
+- Last Digit of the Sum of Squares of Fibonacci Numbers (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11235328/2147483648.)
 ```
 ## _Week 3 Results_
-- Money Change
+- Money Change (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11231232/2147483648.)
 ```
-- Maximum Value of the Loot
+- Maximum Value of the Loot (C)
 ```
 Good job! (Max time used: 0.00/1.00, max memory used: 11407360/2684354560.)
 ```
-- Car Fueling
+- Car Fueling (C)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11292672/2147483648.)
+```
+- Maximum Advertisement Revenue (C)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11718656/2147483648.)
+```
+- Collecting Signatures (C++)
 ```
 ```
-- Maximum Advertisement Revenue
+- Maximum Number of Prizes (C++)
 ```
 ```
-- Collecting Signatures
-```
-```
-- Maximum Number of Prizes 
-```
-```
-- Maximum Salary
+- Maximum Salary (C++)
 ```
 ```
 ## _Week 4 Results_
