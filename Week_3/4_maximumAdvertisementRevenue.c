@@ -34,11 +34,11 @@ void *sortArray(int64_t *src, int n)
 		for(int j = 0; j < n; j++)
 		{
 			if (src[i] > src[j]) 
-            {
-                aux = src[i];
-                src[i] = src[j];
-                src[j] = aux;
-            }
+            		{
+               			aux = src[i];
+                		src[i] = src[j];
+                		src[j] = aux;
+            		}
 		}
 	}
 }
