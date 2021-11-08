@@ -36,7 +36,7 @@ _The course covers basic algorithmic techniques and ideas for computational prob
 
 - Week 1 :heavy_check_mark:
 - Week 2 :heavy_check_mark:
-- Week 3 
+- Week 3 :heavy_check_mark:
 - Week 4 
 - Week 5 
 - Week 6 
@@ -98,6 +98,7 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11718656/2147483648.)
 ```
 - Collecting Signatures (C++)
 ```
+Good job! (Max time used: 0.00/1.00, max memory used: 11558912/2147483648.)
 ```
 - Maximum Number of Prizes (C)
 ```
@@ -105,8 +106,29 @@ Good job! (Max time used: 0.00/1.00, max memory used: 12582912/2147483648.)
 ```
 - Maximum Salary (C++)
 ```
+Good job! (Max time used: 0.00/1.00, max memory used: 11239424/2147483648.)
 ```
 ## _Week 4 Results_
+- Binary Search (C++)
+```
+Good job! (Max time used: 0.05/1.00, max memory used: 43175936/536870912.)
+```
+- Majority Element
+```
+```
+- Improving Quick Sort
+```
+```
+- Number of Inversions
+```
+```
+- Organizing a Lottery
+```
+```
+- Closest Points
+```
+```
+
 ## _Week 5 Results_
 ## _Week 6 Results_
 
