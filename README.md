@@ -115,9 +115,11 @@ Good job! (Max time used: 0.05/1.00, max memory used: 43175936/536870912.)
 ```
 - Majority Element
 ```
+Good job! (Max time used: 0.03/1.00, max memory used: 24256512/2147483648.)
 ```
 - Improving Quick Sort
 ```
+Good job! (Max time used: 0.02/1.00, max memory used: 23142400/2147483648.)
 ```
 - Number of Inversions
 ```
