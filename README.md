@@ -113,11 +113,11 @@ Good job! (Max time used: 0.00/1.00, max memory used: 11239424/2147483648.)
 ```
 Good job! (Max time used: 0.05/1.00, max memory used: 43175936/536870912.)
 ```
-- Majority Element
+- Majority Element (C++)
 ```
 Good job! (Max time used: 0.03/1.00, max memory used: 24256512/2147483648.)
 ```
-- Improving Quick Sort
+- Improving Quick Sort (C++)
 ```
 Good job! (Max time used: 0.02/1.00, max memory used: 23142400/2147483648.)
 ```
