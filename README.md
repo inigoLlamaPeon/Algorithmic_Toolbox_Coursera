@@ -37,7 +37,7 @@ _The course covers basic algorithmic techniques and ideas for computational prob
 - Week 1 :heavy_check_mark:
 - Week 2 :heavy_check_mark:
 - Week 3 :heavy_check_mark:
-- Week 4 
+- Week 4 :heavy_check_mark:
 - Week 5 
 - Week 6 
 
