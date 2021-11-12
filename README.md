@@ -123,13 +123,10 @@ Good job! (Max time used: 0.02/1.00, max memory used: 23142400/2147483648.)
 ```
 - Number of Inversions
 ```
+Good job! (Max time used: 0.01/1.00, max memory used: 14692352/2147483648.)
 ```
-- Organizing a Lottery
-```
-```
-- Closest Points
-```
-```
+- Organizing a Lottery: 
+- Closest Points:
 
 ## _Week 5 Results_
 ## _Week 6 Results_
