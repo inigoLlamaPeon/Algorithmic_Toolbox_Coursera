@@ -38,8 +38,8 @@ _The course covers basic algorithmic techniques and ideas for computational prob
 - Week 2 :heavy_check_mark:
 - Week 3 :heavy_check_mark:
 - Week 4 :heavy_check_mark:
-- Week 5 
-- Week 6 
+- Week 5 :heavy_check_mark:
+- Week 6 :heavy_check_mark:
 
 ## _Week 1 Results_
 - Maximum Pairwise Product (C)
@@ -121,7 +121,7 @@ Good job! (Max time used: 0.03/1.00, max memory used: 24256512/2147483648.)
 ```
 Good job! (Max time used: 0.02/1.00, max memory used: 23142400/2147483648.)
 ```
-- Number of Inversions
+- Number of Inversions (C++)
 ```
 Good job! (Max time used: 0.01/1.00, max memory used: 14692352/2147483648.)
 ```
@@ -129,7 +129,40 @@ Good job! (Max time used: 0.01/1.00, max memory used: 14692352/2147483648.)
 - Closest Points:
 
 ## _Week 5 Results_
+- Money Change Again (C++)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11341824/2147483648.)
+```
+- Primitive Calulator (C++)
+```
+Good job! (Max time used: 0.00/1.50, max memory used: 11231232/2147483648.)
+```
+- Edit Distance (C++)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11268096/2147483648.)
+```
+- Longest Common Subsequence of Two Sequence (C++)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11485184/2147483648.)
+```
+- Longest Common Subsequence of Three Sequence (C++)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 19664896/2147483648.)
+```
+
 ## _Week 6 Results_
+- Maximum Amount of Gold (C++)
+```
+Good job! (Max time used: 0.01/2.00, max memory used: 14782464/2147483648.)
+```
+- Partitioning Souvenirs (C++)
+```
+Good job! (Max time used: 0.03/2.00, max memory used: 13537280/2147483648.)
+```
+- Maximum Value of Arithmetic Expression (C++)
+```
+Good job! (Max time used: 0.00/1.00, max memory used: 11259904/2147483648.)
+```
 
 ## _Compiler Flags_
 
@@ -137,4 +170,3 @@ Good job! (Max time used: 0.01/1.00, max memory used: 14692352/2147483648.)
 | -------- | ------ |
 | C | _gcc -pipe -02 -std=c11 <filename.c> -lm_ |
 | C++ | _g++ -pipe -02 -std=c++14 <filename.cpp> -lm_ |
-| Python | _python3 <filename.py>_ |
